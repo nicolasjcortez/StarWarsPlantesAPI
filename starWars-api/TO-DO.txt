@@ -1,0 +1,23 @@
+Instalar npm e node
+
+1-criar pasta
+2- cd pasta
+3- npm init -y
+4- npm install express
+5- npm install -D nodemon
+6- npm run dev
+
+7.0 - installar docker
+7.01 - start.sh 
+https://stackoverflow.com/questions/34711642/docker-mongo-image-connection-refused-from-other-container 
+7- docker pull mongo
+8- docker run --name mongodb -p 27017:27017 -d mongo
+8.02 - docker-machine ls
+9- docker start mongdb (quando iniciar a maquina, segunda vez)
+
+9.0- download robo 3t
+9-  create conection
+
+10- npm install mongoose
+
+11- npm install require-dir
